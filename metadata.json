@@ -1,0 +1,10 @@
+{
+  "name": "Time-Travel Photo Booth",
+  "description": "Step into history! Take or upload your photo and seamlessly insert your face into iconic historical eras, paintings, and sci-fi futures using AI.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
